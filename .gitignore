@@ -1,0 +1,19 @@
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+venv/
+.venv/
+env/
+ENV/
+
+# Configurações do PyCharm
+.idea/
+
+# Arquivos temporários
+.DS_Store
+*.swp
